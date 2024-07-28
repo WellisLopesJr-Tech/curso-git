@@ -1,0 +1,3 @@
+git log --pretty=oneline = deixa o historico mais organizado;
+git commit -am " " = git add mais o git commit;
+git blame + nome do arquivo = mostra as últimas atualizações e monstra quem as fez;
